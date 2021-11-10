@@ -1,6 +1,5 @@
 ## Privacy Policy
 
-Privacy Policy
 Tech Nest LLC created IKTFS as an Ad Supported app. This SERVICE is provided by Tech Nest LLC at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding Tech Nest LLCs policies with the collection, use, and disclosure of Personal Information if the Service provided is to be used.
