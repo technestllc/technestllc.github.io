@@ -15,7 +15,7 @@ The app does use third party services that may collect information used to ident
 
 Links to the privacy policies of third party service providers used by the app
 
-AdMob - https://support.google.com/admob/answer/6128543?hl=en
+AdMob - https://sasupport.google.com/admob/answer/6128543?hl=en
 Firebase Analytics - https://firebase.google.com/policies/analytics
 Azure Cognitive Services - https://azure.microsoft.com/en-us/support/legal/cognitive-services-compliance-and-privacy/
 
