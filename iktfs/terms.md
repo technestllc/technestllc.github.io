@@ -11,6 +11,8 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 ## Information Collection and Use
 For a better experience, while using our Service, tech Nest may require you to provide us with certain personally identifiable information. The information that Tech Nest may request will be retained on your device and is not collected by Tech Nest LLC in any way.
 
+While using this service Camera permission will be requested so that the user can take a photo in the application.
+
 IKTFS does use third party services that may collect information used to identify you.
 
 Links to the privacy policies of third party service providers used by the app
