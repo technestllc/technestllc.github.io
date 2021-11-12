@@ -37,20 +37,20 @@ minimal_mistakes_skin: "neon"
 plugins:
   - jekyll-feed
 
-# footer:
-#   links:
-#     - label: "Twitter"
-#         icon: "fab fa-twitter"
-#         url: "https://twitter.com/technestllc"
-#     - label: "Instagram"
-#         icon: "fab fa-instagramm"
-#         url: "https://instagram.com/technestllc"
-#     - label: "Facebook"
-#         icon: "fab fa-facebook"
-#         url: "https://facebook.com/technestllc"
-#     - label: "linkedin"
-#         icon: "fab fa-linkedin"
-#         url: "https://linkedin.com/company/technestllc"
+footer:
+  links:
+    - label: "Twitter"
+        icon: "fab fa-twitter"
+        url: "https://twitter.com/technestllc"
+    - label: "Instagram"
+        icon: "fab fa-instagramm"
+        url: "https://instagram.com/technestllc"
+    - label: "Facebook"
+        icon: "fab fa-facebook"
+        url: "https://facebook.com/technestllc"
+    - label: "linkedin"
+        icon: "fab fa-linkedin"
+        url: "https://linkedin.com/company/technestllc"
 
 
 # Exclude from processing.
