@@ -11446,10 +11446,10 @@ section.cta:before {
   display: none;
 }
 .features-device-mockup .circle .gradient-start-color {
-  stop-color: #2937f0;
+  stop-color: #b1b3b3;
 }
 .features-device-mockup .circle .gradient-end-color {
-  stop-color: #9f1ae2;
+  stop-color: #9fe4da;
 }
 .features-device-mockup .shape-1 {
   position: absolute;
@@ -11558,10 +11558,10 @@ footer a:hover, footer a:active, footer a:focus {
   display: none;
 }
 .masthead .masthead-device-mockup .circle .gradient-start-color {
-  stop-color: #b1b4b3;
+  stop-color: #b1b3b3;
 }
 .masthead .masthead-device-mockup .circle .gradient-end-color {
-  stop-color: #9ce9de;
+  stop-color: #9fe4da;
 }
 .masthead .masthead-device-mockup .shape-1 {
   position: absolute;
